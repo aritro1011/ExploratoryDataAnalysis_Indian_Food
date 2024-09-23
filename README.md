@@ -44,9 +44,12 @@ Analyze frequency distributions of categorical variables like diet, flavor_profi
 Explore the distribution and statistics of prep_time and cook_time.
 Investigate unique values in categorical columns.
 ###  Data Visualization:
-#### Sample:
+#### Sample:  
+![Screenshot 2024-09-23 080631](https://github.com/user-attachments/assets/bf150b9e-c2d8-4358-a5ff-041c9d0005c7)
+
 ![image](https://github.com/user-attachments/assets/7cacd64e-14cb-483b-af97-bace0fde1c73)
-![Screenshot 2024-09-23 080631](https://github.com/user-attachments/assets/dcf9e437-f06a-4b78-81ad-5030d9d5f89a)
+
+![chart](https://github.com/user-attachments/assets/4b45cba2-3925-43a9-9be5-256b0ab47a62)
 
 
 

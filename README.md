@@ -78,6 +78,5 @@ Ingredients Word Cloud: Visual representation of the most common ingredients use
 This project is designed to be run in Google Colab for interactive data analysis.   
 
 Data cleaning steps, such as handling missing values and replacing placeholder values, are included to ensure data quality.
-## Contact
-For any questions or feedback, please reach out to aritro1011@gmail.com.
+
 
